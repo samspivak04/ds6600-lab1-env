@@ -1,6 +1,7 @@
 # frozen from my laptop with pip freeze > requirements.txt
 # bumped pandas after the groupby change broke the aggregation;
 # everything else is whatever was already installed. -- works for me
+'''
 anyio==3.6.2
 argon2-cffi==21.3.0
 argon2-cffi-bindings==26.1.0
@@ -114,3 +115,16 @@ websocket-client==1.5.1
 widgetsnbextension==4.0.5
 xlrd==2.0.1
 zipp==3.13.0
+'''
+
+
+
+ipykernel==6.21.2
+
+matplotlib==3.11.0
+
+numpy==2.3.4
+
+pandas==3.0.5
+
+seaborn==0.13.2
