@@ -18,7 +18,8 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 
-DATA = os.path.join("data", "happiness.csv")
+# DATA = os.path.join("data", "happiness.csv")
+DATA = "happiness.csv"
 OUTDIR = "output"
 
 SCORE = "Happiness score"
